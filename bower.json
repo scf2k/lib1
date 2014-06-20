@@ -1,6 +1,6 @@
 {
   "name": "lib1",
   "dependencies": {
-    "lib2": "git://github.com/scf2k/lib2"
+    "lib2": "git://github.com/scf2k/lib2.git"
   }
 }
